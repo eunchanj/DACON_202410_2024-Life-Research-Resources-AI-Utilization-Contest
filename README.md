@@ -1,1 +1,2 @@
-# DACON_202410_2024-Life-Research-Resources-AI-Utilization-Contest
+# DACON_202410_
+- 2024-Life-Research-Resources-AI-Utilization-Contest
